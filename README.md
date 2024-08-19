@@ -29,7 +29,7 @@ ROS Kinetic or Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
 ### 1.2 **Eigen**
 Follow [Eigen Installation](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
-### 1.3 **Ceres Solver**
+### 1.3 **Ceres Solver (1.14.0)**
 Follow [Ceres Installation](http://ceres-solver.org/installation.html).
 
 ### 1.4 **PCL**
