@@ -29,11 +29,14 @@ ROS Kinetic or Melodic. [ROS Installation](http://wiki.ros.org/ROS/Installation)
 ### 1.2 **Eigen**
 Follow [Eigen Installation](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
-### 1.3 **Ceres Solver**
+### 1.3 **Ceres Solver (1.14.0)**
 Follow [Ceres Installation](http://ceres-solver.org/installation.html).
 
 ### 1.4 **PCL**
 Follow [PCL Installation](http://www.pointclouds.org/downloads/linux.html). (Our code is tested with PCL1.7)
+
+### 1.5 **OpenCV (3.14) **
+Follow [OpenCV Installation](https://opencv.org/get-started/).
 
 ## 2. Build
 Clone the repository and catkin_make:
